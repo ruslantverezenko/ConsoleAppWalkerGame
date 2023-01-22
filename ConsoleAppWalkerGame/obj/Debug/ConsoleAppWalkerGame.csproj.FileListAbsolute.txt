@@ -1,0 +1,7 @@
+C:\Users\Q\source\repos\ConsoleAppWalkerGame\ConsoleAppWalkerGame\bin\Debug\ConsoleAppWalkerGame.exe.config
+C:\Users\Q\source\repos\ConsoleAppWalkerGame\ConsoleAppWalkerGame\bin\Debug\ConsoleAppWalkerGame.exe
+C:\Users\Q\source\repos\ConsoleAppWalkerGame\ConsoleAppWalkerGame\bin\Debug\ConsoleAppWalkerGame.pdb
+C:\Users\Q\source\repos\ConsoleAppWalkerGame\ConsoleAppWalkerGame\obj\Debug\ConsoleAppWalkerGame.csprojAssemblyReference.cache
+C:\Users\Q\source\repos\ConsoleAppWalkerGame\ConsoleAppWalkerGame\obj\Debug\ConsoleAppWalkerGame.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\ConsoleAppWalkerGame\ConsoleAppWalkerGame\obj\Debug\ConsoleAppWalkerGame.exe
+C:\Users\Q\source\repos\ConsoleAppWalkerGame\ConsoleAppWalkerGame\obj\Debug\ConsoleAppWalkerGame.pdb
